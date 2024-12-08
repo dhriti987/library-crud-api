@@ -34,7 +34,7 @@ This repository contains a Flask-based API for a "Library Management System" tha
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/library-management-system.git
+   git clone https://github.com/dhriti987/library-crud-api.git
    cd library-management-system
    ```
 
@@ -58,7 +58,7 @@ This repository contains a Flask-based API for a "Library Management System" tha
 5. **Run the Application**:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 6. **Access the API**:
