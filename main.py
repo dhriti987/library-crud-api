@@ -12,7 +12,7 @@ from sqlalchemy_searchable import SearchQueryMixin, make_searchable
 
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://vbhxdyww:XoKieKKoQC-TjF9ffr9v7YqvLqMXMq79@tiny.db.elephantsql.com/vbhxdyww"
+app.config['SQLALCHEMY_DATABASE_URI'] = "" # Please Enter Your PostreSQL URI Only
 # Secret key for encoding and decoding the JWT tokens
 SECRET_KEY = "mysecretkey"  # Change this to a more secure key in production
 
